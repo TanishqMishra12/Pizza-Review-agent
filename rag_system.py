@@ -2,10 +2,9 @@
 RAG (Retrieval-Augmented Generation) system for pizza review queries.
 """
 import os
-from typing import List, Dict
+from typing import List, Dict, Any
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import Chroma
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import RetrievalQA
 from langchain.schema import Document
 from dotenv import load_dotenv
@@ -80,7 +79,7 @@ class PizzaReviewRAG:
         
         print("✓ QA chain initialized")
         
-    def query(self, question: str) -> Dict[str, any]:
+    def query(self, question: str) -> Dict[str, Any]:
         """
         Query the RAG system with a natural language question.
         

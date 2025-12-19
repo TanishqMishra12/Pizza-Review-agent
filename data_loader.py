@@ -2,7 +2,7 @@
 Data loader module for loading and preprocessing pizza reviews from CSV.
 """
 import pandas as pd
-from typing import List, Dict
+from typing import List, Dict, Any
 
 
 class PizzaReviewLoader:
@@ -63,7 +63,7 @@ class PizzaReviewLoader:
         
         return documents
     
-    def get_statistics(self) -> Dict[str, any]:
+    def get_statistics(self) -> Dict[str, Any]:
         """
         Get basic statistics about the review dataset.
         
