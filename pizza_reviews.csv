@@ -1,0 +1,31 @@
+review_id,customer_name,pizza_type,rating,review_text,date,location
+1,John Smith,Margherita,5,"Absolutely amazing! The crust was perfectly crispy and the fresh basil added such a wonderful flavor. Best Margherita I've had in years.",2024-01-15,New York
+2,Emily Johnson,Pepperoni,4,"Great pepperoni pizza with generous toppings. The cheese was melted to perfection. Only wish the crust was a bit thicker.",2024-01-16,Chicago
+3,Michael Brown,Vegetarian,3,"Decent vegetarian option but felt like it needed more flavor. The vegetables were fresh but the sauce was a bit bland.",2024-01-17,Los Angeles
+4,Sarah Davis,BBQ Chicken,5,"Outstanding BBQ chicken pizza! The combination of tangy BBQ sauce and tender chicken was incredible. Will definitely order again.",2024-01-18,San Francisco
+5,David Wilson,Hawaiian,2,"Not a fan of the pineapple on pizza but that's personal preference. The ham quality wasn't great either.",2024-01-19,Miami
+6,Lisa Anderson,Meat Lovers,5,"Carnivore's dream! Loaded with pepperoni, sausage, bacon, and ham. Every bite was packed with flavor. Highly recommend!",2024-01-20,Boston
+7,James Martinez,Four Cheese,4,"Excellent cheese blend with mozzarella, parmesan, gorgonzola, and ricotta. Rich and creamy but could use more seasoning.",2024-01-21,Seattle
+8,Jennifer Taylor,Margherita,5,"Simple yet perfect. The quality of ingredients really shines through. San Marzano tomatoes and fresh mozzarella make all the difference.",2024-01-22,Portland
+9,Robert Thomas,Pepperoni,3,"Average pepperoni pizza. Nothing special but nothing terrible either. Good for a quick lunch.",2024-01-23,Denver
+10,Maria Garcia,Veggie Supreme,4,"Loved all the fresh vegetables! Bell peppers, mushrooms, onions, and olives were all top quality. Nice crispy crust too.",2024-01-24,Austin
+11,William Rodriguez,Meat Lovers,4,"Good meat pizza but a bit too greasy for my taste. Flavor was excellent though.",2024-01-25,Dallas
+12,Patricia Martinez,White Pizza,5,"The white pizza with garlic and ricotta was heavenly. No tomato sauce needed when you have this much flavor!",2024-01-26,Phoenix
+13,Christopher Lee,Buffalo Chicken,4,"Spicy and tangy buffalo chicken pizza. Great kick but might be too spicy for some. I loved it!",2024-01-27,Houston
+14,Linda White,Mushroom,3,"Good mushroom pizza but they were a bit stingy with the toppings. Needed more mushrooms!",2024-01-28,Philadelphia
+15,Daniel Harris,Pepperoni,5,"Classic pepperoni done right. Crispy edges, gooey center, and the perfect amount of pepperoni. Can't ask for more!",2024-01-29,San Diego
+16,Barbara Clark,Hawaiian,1,"Pineapple should never be on pizza. This was a culinary disaster. Ruined a perfectly good pizza.",2024-01-30,Las Vegas
+17,Matthew Lewis,Supreme,5,"The supreme pizza has everything you could want! Sausage, pepperoni, peppers, onions, mushrooms. Fantastic!",2024-02-01,Atlanta
+18,Nancy Walker,Veggie Delight,4,"Great vegetarian option with lots of colorful veggies. Fresh and tasty. Would order again.",2024-02-02,Charlotte
+19,Paul Hall,BBQ Chicken,3,"BBQ sauce was okay but chicken pieces were a bit dry. Expected better quality.",2024-02-03,Nashville
+20,Karen Allen,Margherita,4,"Good Margherita pizza. Fresh basil and quality mozzarella. Crust could have been a bit crispier.",2024-02-04,New Orleans
+21,Steven Young,Meat Lovers,5,"Meat overload in the best way possible! Every carnivore's fantasy. Outstanding flavor and generous portions.",2024-02-05,Tampa
+22,Betty King,Four Cheese,3,"Too much cheese made it heavy and greasy. The flavor was good but it was hard to finish.",2024-02-06,Orlando
+23,Edward Wright,Pepperoni,4,"Solid pepperoni pizza. Good quality ingredients and nice flavor. Would recommend.",2024-02-07,Cleveland
+24,Dorothy Scott,Veggie Supreme,5,"Best vegetable pizza I've ever had! So many fresh toppings and the combination was perfect.",2024-02-08,Minneapolis
+25,Donald Green,Buffalo Chicken,4,"Nice spicy kick from the buffalo sauce. Chicken was tender and flavorful. Good portion size.",2024-02-09,Detroit
+26,Sandra Adams,White Pizza,4,"Creamy white pizza with great garlic flavor. Different from traditional pizza but delicious.",2024-02-10,Baltimore
+27,Kenneth Baker,Hawaiian,4,"I know Hawaiian pizza is controversial but I love it! Sweet and savory combination is amazing.",2024-02-11,Milwaukee
+28,Ashley Nelson,Margherita,5,"Perfection! The simplicity lets quality ingredients shine. Fresh basil, mozzarella, and tomatoes. Chef's kiss!",2024-02-12,Kansas City
+29,Brian Carter,Supreme,4,"Loaded with toppings! Great variety and all fresh ingredients. Maybe a bit too much going on but still delicious.",2024-02-13,Indianapolis
+30,Donna Mitchell,Pepperoni,5,"Best pepperoni pizza in town! Crispy, flavorful, and just the right amount of grease. Perfect!",2024-02-14,Columbus
