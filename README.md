@@ -38,7 +38,7 @@ CSV Reviews Dataset
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |---|---|
